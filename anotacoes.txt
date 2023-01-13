@@ -1,0 +1,25 @@
+Estrutura basica html
+<!DOCTYPE html>
+<html lang="en">
+
+Tag <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    *Tag <titulo> 
+    </title>
+    *tag <link para CSS_ tag unica
+    *tag <script para modulos javascrip tag unica para injetar o código
+Fim da tag <head>
+
+Inicio da tag <body>
+    <header  
+    </header
+    <main
+    </main
+    <footer
+    </footer
+fim da tag </body
+
+fim da tag </html
+
+

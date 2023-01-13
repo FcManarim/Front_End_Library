@@ -1,5 +1,16 @@
-import  Book  from "./Book.js";
+import Book from "./Book.js";
 
+
+const pacienteSilenciosa = new Book(
+  "A Paciente Silenciosa",
+  "Alex Michaelides",
+  "Após cometer o assassinado de seu marido, uma mulher se recusa a falar qualquer coisa, deixando suspeitas e mistérios não resolvidos sobre o caso. E o terapeuta Theo Faber está obcecado em descobrir o motivo da violencia e do silencio. Só ela sabe o que aconteceu. Só ele pode fazê-la falar. A paciente silenciosa é um daqueles livros que não saem da cabeça do leitor, quer ele queira, quer não.",
+  "Portugues",
+  "8501116432",
+  "PacienteSilenciosa.png",
+  50.23,
+  "2023-01-07T10:32:12.271Z"
+);
 const verity = new Book(
   "Verity",
   "Colleen Hoover",
@@ -17,18 +28,10 @@ const atomicHabit = new Book(
   "Ingles",
   "0593189647",
   "AtomicHabist.png",
-  30,
+  30.05,
   "2023-01-07T13:36:02.286Z"
 );
-const pacienteSilenciosa = new Book(
-  "Alex Michaelides",
-  "Após cometer o assassinado de seu marido, uma mulher se recusa a falar qualquer coisa, deixando suspeitas e mistérios não resolvidos sobre o caso. E o terapeuta Theo Faber está obcecado em descobrir o motivo da violencia e do silencio. Só ela sabe o que aconteceu. Só ele pode fazê-la falar. A paciente silenciosa é um daqueles livros que não saem da cabeça do leitor, quer ele queira, quer não.",
-  "Portugues",
-  "8501116432",
-  "PacienteMisteriosa.png",
-  50.23,
-  "2023-01-07T10:32:12.271Z"
-);
+
 const previsivelmenteIrracional = new Book(
   "Previsivelmente Irracional",
   "Dan Ariely",
@@ -42,10 +45,9 @@ const previsivelmenteIrracional = new Book(
 
 export const arrayBooks = [
   verity,
-  atomicHabit,
   pacienteSilenciosa,
+  atomicHabit,
   previsivelmenteIrracional,
 ];
-
 
 export default arrayBooks;
