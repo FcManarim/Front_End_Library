@@ -33,11 +33,11 @@ figure {
   font-weight: 200; 
 }
 
-.siteheader:after {
-  display: block;
+/* .siteheader:after { */
+  /* display: block;
   margin: 4rem 0;
-  content: "⚍⚌⚍";
-}
+  content: "⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌"; */
+/* } */
 
 .maincontent {
   margin: 0 auto;
