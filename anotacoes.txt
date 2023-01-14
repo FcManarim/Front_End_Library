@@ -1,3 +1,8 @@
+Novas dependencias criadas para conectar com a API
+npm i xmlhttprequest
+npm install xhr2
+
+
 Estrutura basica html
 <!DOCTYPE html>
 <html lang="en">
