@@ -2,6 +2,8 @@ Novas dependencias criadas para conectar com a API
 npm i xmlhttprequest
 npm install xhr2
 
+site para aprender fetch
+https://www.youtube.com/watch?v=qIGYM4S8x50
 
 Estrutura basica html
 <!DOCTYPE html>
