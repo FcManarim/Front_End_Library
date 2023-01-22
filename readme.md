@@ -1,6 +1,6 @@
 🚀✨ Proposta do projeto.
 
-Consumir os dados do projeto anterio que consistiu em uma API fazendo CRUD na tabela books dos melhores livros lidos em 2022 e apresentá-los em uma pagina de internet de modo dinamico onde qualquer inclusão, alteração ou exclusão dos dados no banco fefletissem automaticamente na página.
+Consumir os dados do projeto anterior (API fazendo CRUD na tabela books dos melhores livros lidos em 2022) e apresentá-los em uma pagina de internet de modo dinamico onde qualquer inclusão, alteração ou exclusão dos dados no banco fefletissem automaticamente na página.
 
 
 🧠✨ O que aprendi.
