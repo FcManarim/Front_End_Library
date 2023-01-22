@@ -5,7 +5,7 @@ Consumir os dados do projeto anterio que consistiu em uma API fazendo CRUD na ta
 
 🧠✨ O que aprendi.
 
-Conceitos de comunicação com uma api por meio de dados no formato JSON. Utilização dos conceitos de Javascript para atualização das páginas dinamicamente sendo injetadas na página web, utilização de HTML e CSS.
+Conceitos de comunicação com uma api por meio de dados no formato JSON. Utilização dos conceitos de Javascript para atualização das páginas dinamicamente sendo injetadas na página web, utilização de HTML e CSS. Criação de Classes e manipulação de Objestos em Javascript.
 
 
 🔧✨ Tecnologias utilizadas.
